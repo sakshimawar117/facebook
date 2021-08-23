@@ -1,0 +1,143 @@
+.fb{
+    display: flex;
+    justify-content: center;
+}
+.container{
+
+
+    width: 450px;
+    height: 500px;
+    background-color: white;
+    margin-top: 9em;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    position: relative;
+    border-radius: 4px;
+    display: inline-block;
+
+    box-shadow: 3px 4px 9px 7px rgb(0 0 0 / 7%);
+}
+
+
+
+h1{ margin-bottom: 5px;
+margin-left: 15px;
+font-size: 30px;}
+
+
+hr{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color:#606770;
+}
+ #first{
+    margin-left: 24px;
+    border-radius: 5px;
+    width: 170px;
+    padding: 11px;
+    font-size: 15px;
+    background-color: #f5f6f7;
+    border: solid 1px #9e9e9e;
+
+}
+
+#last{
+    border-radius: 5px;
+    width: 170px;
+    padding: 11px;
+    font-size: 15px;
+    background-color:  #f5f6f7;
+    margin-left: 10px;
+    border: solid 1px #9e9e9e;
+    
+}
+
+#number{
+    border-radius: 5px;
+    width: 380px;
+    padding: 11px;
+    font-size: 15px;
+    background-color:  #f5f6f7;
+    margin-left: 24px;
+    border: solid 1px #9e9e9e;
+    margin-top: 8px;
+    
+}
+
+#password{
+    border-radius: 5px;
+    width: 380px;
+    padding: 11px;
+    font-size: 15px;
+    background-color:  #f5f6f7;
+    margin-left: 24px;
+    border: solid 1px #9e9e9e;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    
+}
+
+select{
+    border-radius: 5px;
+    width: 125px;
+    padding: 8px;
+    font-size: 15px;
+    margin-left: 24px;
+    border: solid 1px #9e9e9e;
+    margin-bottom: 10px;
+}
+label#text{
+    font-size: 13px;
+    margin-left: 26px;
+    color:#606770;
+    }
+#dot{ margin-left: 32px;}
+#dot2{ margin-left: 53px;}
+#dot3{ margin-left: 30px;}
+
+.bottom{
+    font-size: 11.5px;
+    margin-left: 24px;
+   color: #837e7e;
+}
+.form{ margin-left: auto;
+margin-right: auto;}
+
+h6{ margin-bottom: 8px;
+margin-top: 0px;
+margin-left: 26px;
+color: #606770;}
+
+
+button{
+    background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 41px;
+    text-shadow: none;
+    margin-left: 130px;
+    width: 200px;
+    margin-top: 18px;
+    cursor: pointer;
+        
+    }
+
+    section{height: 100vh;
+        width: 100vw;
+        background-image: url("../image/facebook.jpg");
+        background-position: center;
+        background-size: cover;
+        position: absolute;
+        filter: opacity(0.2);
+    }
+
+    a{ color: blue;
+    cursor: pointer;}
+
+    
